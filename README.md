@@ -1,2 +1,2 @@
 # git-github-edureka
-edureka git practice
+edureka git practice github repository 
